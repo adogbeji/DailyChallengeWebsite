@@ -34,3 +34,8 @@ a:hover {
     font-weight: bold;
     font-size: 52px;
 }
+
+/* Full Week Page */
+#main-header {
+    font-family: 'Oswald', sans-serif;
+}
