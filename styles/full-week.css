@@ -20,3 +20,11 @@ p {
     font-family: 'Fira Sans', sans-serif;
     color: #534b4b;
 }
+
+ol {
+    list-style: none;
+}
+
+li {
+    list-style: square;
+}
