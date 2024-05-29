@@ -5,15 +5,25 @@
 } */
 
 h1 {
-    color: #7E0FC5;
+    font-size: 48px;
+    /* color: #7E0FC5; */
+    color: rgb(71, 62, 62);
+    margin: 12px 0;
 }
 
 a {
     text-decoration: none;
+    background-color: rgb(167, 1, 78);
+    color: white;
+    border: 1px solid rgb(167, 1, 78);
+    border-radius: 4px;
+    font-size: 24px;
+    padding: 12px 48px;
 }
 
 a:hover {
-    color: #FF0000;
+    background-color: rgb(180, 12, 90);
+    /* color: #FF0000; */
 }
 
 p {
@@ -22,9 +32,16 @@ p {
 }
 
 ol {
-    list-style: none;
+    /* list-style: none; */
+    color: rgb(251, 255, 0);
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
 }
 
 li {
-    list-style: square;
+    margin: 32px;
+    padding: 16px;
+    background-color: rgb(223, 136, 124);
+    border-radius: 6px;
 }
