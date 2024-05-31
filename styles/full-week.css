@@ -4,6 +4,10 @@
     margin: 50px;
 } */
 
+header {
+    margin-bottom: 64px;
+}
+
 h1 {
     font-size: 48px;
     /* color: #7E0FC5; */
@@ -55,7 +59,11 @@ h2 {
     font-family: 'Oswald', sans-serif;
 }
 
-main p {
+/* main p {
     margin: 12px;
     color: rgb(71, 29, 22);
+} */
+
+.highlight-goal {
+    background-color: rgb(224, 124, 111);
 }
