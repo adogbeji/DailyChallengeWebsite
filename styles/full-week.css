@@ -11,6 +11,10 @@ h1 {
     margin: 12px 0;
 }
 
+#description {
+    margin-bottom: 36px;
+}
+
 a {
     text-decoration: none;
     background-color: rgb(167, 1, 78);
@@ -44,4 +48,14 @@ li {
     padding: 16px;
     background-color: rgb(223, 136, 124);
     border-radius: 6px;
+}
+
+h2 {
+    color: rgb(78, 13, 5);
+    font-family: 'Oswald', sans-serif;
+}
+
+main p {
+    margin: 12px;
+    color: rgb(71, 29, 22);
 }
