@@ -8,6 +8,14 @@ main {
     background-color: rgb(219, 108, 94);
 }
 
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 5px solid rgb(44, 44, 44);
+    margin-top: -134px;
+}
+
 h1 {
     /* color: red; */
     color: black;
